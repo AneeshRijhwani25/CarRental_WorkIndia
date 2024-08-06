@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "12345678",
+      "database": "zoomcars",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
